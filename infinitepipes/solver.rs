@@ -46,4 +46,3 @@ fn main() {
     println!("{}", rot((LEFT+RIGHT)));
     println!("{}", h_match(LEFT, UP+DOWN));
 }
-             
